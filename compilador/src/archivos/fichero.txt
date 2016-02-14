@@ -1,0 +1,4 @@
+autonomo
+1234
+funcion hacerFuncion
+(  )
